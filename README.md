@@ -10,3 +10,10 @@ forecast stock prices accurately. This project aims to utilize deep learning alg
 - To develop and train deep learning models for stock price prediction.
 - To evaluate the performance of the models using appropriate metrics.
 - To provide insights and analysis based on the model predictions.
+
+### Dependencies
+This project requires the following dependencies:
+
+- Python 3  
+
+
